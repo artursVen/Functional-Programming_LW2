@@ -4,6 +4,14 @@
 //> using dep org.apache.poi:poi-ooxml:5.4.1
 //> using javaOpt -Dlog4j.provider=org.apache.logging.log4j.simple.internal.SimpleProvider
 
+/*
+ * Copyright (C) 2026 ARTURS VENREVICS
+ * SPDX-License-Identifier: AGPL-3.0-only
+ *
+ * Licensed under the GNU Affero General Public License, version 3.
+ * See the LICENSE file for the full license text.
+ */
+
 
 import java.io.File
 import org.apache.poi.ss.usermodel.WorkbookFactory
