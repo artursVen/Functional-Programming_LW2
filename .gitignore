@@ -1,0 +1,23 @@
+# Scala CLI ģenerētie faili
+.scala-build/
+.bsp/
+
+# Metals ģenerētie faili
+.metals/
+
+# Programmas ģenerētie rezultāti
+output/
+
+# Excel pagaidu faili
+~$*.xlsx
+
+# Windows sistēmas faili
+Thumbs.db
+Desktop.ini
+
+# Uzdevumu faili
+FP_LW2_TASK.md
+memo.md
+
+# Lokālie VS Code iestatījumi
+.vscode/
